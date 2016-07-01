@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C51BB981D271E6D00166460 /* Chad Leonard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C51BB971D271E6D00166460 /* Chad Leonard.jpg */; };
 		9DFE1BC01D26D55A00F80375 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DFE1BB71D26D55A00F80375 /* Assets.xcassets */; };
 		9DFE1BC11D26D55A00F80375 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DFE1BB81D26D55A00F80375 /* LaunchScreen.storyboard */; };
 		9DFE1BC21D26D55A00F80375 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DFE1BBA1D26D55A00F80375 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1C51BB971D271E6D00166460 /* Chad Leonard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Chad Leonard.jpg"; sourceTree = "<group>"; };
 		9DFE1BA11D26D51600F80375 /* StudentList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StudentList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DFE1BB71D26D55A00F80375 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9DFE1BB91D26D55A00F80375 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 		9DFE1BCC1D26DCAB00F80375 /* StudentImages */ = {
 			isa = PBXGroup;
 			children = (
+				1C51BB971D271E6D00166460 /* Chad Leonard.jpg */,
 			);
 			path = StudentImages;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				9DFE1BC21D26D55A00F80375 /* Main.storyboard in Resources */,
 				9DFE1BC01D26D55A00F80375 /* Assets.xcassets in Resources */,
+				1C51BB981D271E6D00166460 /* Chad Leonard.jpg in Resources */,
 				9DFE1BC11D26D55A00F80375 /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -316,6 +320,7 @@
 				9DFE1BB51D26D51600F80375 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
